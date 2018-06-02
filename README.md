@@ -1,2 +1,4 @@
-# zopefoundation.github.io
-Content for https://zopefoundation.github.io
+# zopefoundation GitHub pages
+
+* [Zope](https://zopefoundation.github.io/Zope/)
+
