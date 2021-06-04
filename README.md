@@ -1,4 +1,5 @@
 * [Zope](https://zopefoundation.github.io/Zope/)
+* [Zope artwork (logos etc.)](/artwork/)
 
 _____
 
