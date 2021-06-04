@@ -4,8 +4,8 @@
 
 # Zope artwork
 
-* [Logo construction](https://zopefoundation.github.io/Zope/artwork/)
-* [List of available files]((https://zopefoundation.github.io/Zope/artwork/files.html)
+* [Logo information](https://zopefoundation.github.io/Zope/artwork/)
+* [List of available artwork files](https://zopefoundation.github.io/Zope/artwork/files.html)
 
 _____
 
